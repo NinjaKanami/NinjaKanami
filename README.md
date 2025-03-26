@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjakanami&show_icons=true&locale=en" alt="ninjakanami" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ninjakanami&theme=default" alt="ninjakanami" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com/?user=ninjakanami&theme=default" alt="ninjakanami" /></p>
